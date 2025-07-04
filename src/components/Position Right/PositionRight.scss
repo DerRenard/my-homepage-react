@@ -1,0 +1,19 @@
+.position-right {
+  width: 50px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+
+  #avatar {
+    max-width: 50px;
+    border-radius: 50%;
+  }
+
+  .googleLinks {
+    .googleLinksImages {
+      max-width: 40px;
+    }
+  }
+}

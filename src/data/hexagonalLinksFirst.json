@@ -1,0 +1,37 @@
+[
+  {
+    "name": "yandex music",
+    "link": "https://music.yandex.ru",
+    "imagePath": "/Icons_hex/yandexMusic2.jpg"
+  },
+  {
+    "name": "vk",
+    "link": "https://vk.com/im",
+    "imagePath": "/Icons_hex/vk.webp"
+  },
+  {
+    "name": "github",
+    "link": "https://github.com",
+    "imagePath": "/Icons_hex/github.png"
+  },
+  {
+    "name": "yandex disk",
+    "link": "https://disk.yandex.ru",
+    "imagePath": "/Icons_hex/yandex_disk.png"
+  },
+  {
+    "name": "ssu",
+    "link": "https://www.sgu.ru/schedule/ff/do/3071",
+    "imagePath": "/Icons_hex/ssu.png"
+  },
+  {
+    "name": "kwork",
+    "link": "https://kwork.ru",
+    "imagePath": "/Icons_hex/kwork.png"
+  },
+  {
+    "name": "habr",
+    "link": "https://habr.com",
+    "imagePath": "/Icons_hex/habr.png"
+  }
+]

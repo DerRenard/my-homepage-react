@@ -1,0 +1,32 @@
+[
+  {
+    "name": "yadnex",
+    "link": "https://ya.ru",
+    "imagePath": "/Icons_hex/yandex.png"
+  },
+  {
+    "name": "yandex mail",
+    "link": "https://mail.yandex.ru",
+    "imagePath": "/Icons_hex/yandex_mail.png"
+  },
+  {
+    "name": "rambler mail",
+    "link": "https://mail.rambler.ru/folder/INBOX",
+    "imagePath": "/Icons_hex/rambler_mail.jpg"
+  },
+  {
+    "name": "reddit",
+    "link": "https://www.reddit.com",
+    "imagePath": "/Icons_hex/reddit.png"
+  },
+  {
+    "name": "mailru",
+    "link": "https://mail.ru",
+    "imagePath": "/Icons_hex/mailru.jpg"
+  },
+  {
+    "name": "localhost",
+    "link": "http://127.0.0.1:5500",
+    "imagePath": "/Icons_hex/localhost.png"
+  }
+]
