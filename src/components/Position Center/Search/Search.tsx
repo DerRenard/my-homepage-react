@@ -2,6 +2,8 @@ import { useRef } from "react";
 import "./Search.scss";
 
 export default function Search() {
+  const base = import.meta.env.BASE_URL;
+
   const formInput = useRef<HTMLInputElement>(null);
 
   return (
@@ -28,7 +30,9 @@ export default function Search() {
         />
       </div>
       <button type="submit" id="submit">
-        <img src="/submit.svg" alt="sub" />
+        {/* <img src="submit.svg" alt="sub" /> */}
+        {/* <img src={`${import.meta.env.BASE_URL}submit.svg`} alt=",submit" /> */}
+        <img src={`${base}submit.svg`} alt="submit" />
       </button>
     </form>
   );
