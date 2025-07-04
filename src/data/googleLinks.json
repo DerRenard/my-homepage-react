@@ -2,51 +2,51 @@
   {
     "name": "google search",
     "link": "https://google.com",
-    "imagePath": "/Icons_google/google.png"
+    "imagePath": "/my-homepage-react//Icons_google/google.png"
   },
   {
     "name": "google mail",
     "link": "https://mail.google.com",
-    "imagePath": "/Icons_google/gmail.png"
+    "imagePath": "/my-homepage-react//Icons_google/gmail.png"
   },
   {
     "name": "google youtube",
     "link": "https://www.youtube.com",
-    "imagePath": "/Icons_google/youtube.png"
+    "imagePath": "/my-homepage-react//Icons_google/youtube.png"
   },
   {
     "name": "google maps",
     "link": "https://www.google.com/maps",
-    "imagePath": "/Icons_google/maps.png"
+    "imagePath": "/my-homepage-react//Icons_google/maps.png"
   },
   {
     "name": "google drive",
     "link": "https://drive.google.com",
-    "imagePath": "/Icons_google/drive.png"
+    "imagePath": "/my-homepage-react//Icons_google/drive.png"
   },
   {
     "name": "google docs",
     "link": "https://docs.google.com/document",
-    "imagePath": "/Icons_google/docs.png"
+    "imagePath": "/my-homepage-react//Icons_google/docs.png"
   },
   {
     "name": "google sheets",
     "link": "https://docs.google.com/spreadsheets",
-    "imagePath": "/Icons_google/sheets.png"
+    "imagePath": "/my-homepage-react//Icons_google/sheets.png"
   },
   {
     "name": "google keep",
     "link": "https://keep.google.com",
-    "imagePath": "/Icons_google/keep.png"
+    "imagePath": "/my-homepage-react//Icons_google/keep.png"
   },
   {
     "name": "google translate",
     "link": "https://translate.google.com",
-    "imagePath": "/Icons_google/translate.png"
+    "imagePath": "/my-homepage-react//Icons_google/translate.png"
   },
   {
     "name": "google fonts",
     "link": "https://fonts.google.com/",
-    "imagePath": "/Icons_google/fonts.svg"
+    "imagePath": "/my-homepage-react//Icons_google/fonts.svg"
   }
 ]
